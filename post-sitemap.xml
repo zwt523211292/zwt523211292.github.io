@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>wt.sobaigu.com/first-blog.html</loc>
+        <lastmod>2017-10-22T07:12:55.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>wt.sobaigu.com/hello-world.html</loc>
         <lastmod>2017-09-05T07:15:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
